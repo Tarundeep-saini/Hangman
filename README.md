@@ -11,6 +11,13 @@ Install the dependencies and devDependencies and start the server.
 
 ```sh
 cd Hangman
+```
+```sh
 npm install
+```
+```sh
 npm run dev
 ```
+
+
+
